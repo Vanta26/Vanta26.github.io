@@ -231,3 +231,12 @@ li, ul {
     }
 }
 
+@media (max-width: 440px) {
+    .ilustracion {
+        display: none;
+    }
+    .boton:hover {
+        background-color: white;
+    }
+}
+
